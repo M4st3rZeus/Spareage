@@ -2,6 +2,6 @@
   "isPaid": false,
   "alertMessage": {
     "title": "Warning",
-    "message": "Please Pay Remaining Amount"
+    "message": ""
   }
 }
