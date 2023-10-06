@@ -2,6 +2,6 @@
   "isPaid": true,
   "alertMessage": {
     "title": "Warning",
-    "message": "Payment pending from past 1 month"
+    "message": ""
   }
 }
