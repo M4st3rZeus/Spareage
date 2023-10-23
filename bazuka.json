@@ -1,7 +1,7 @@
 {
   "isPaid": true,
   "alertMessage": {
-    "title": "Warning",
-    "message": ""
+    "title": "Error",
+    "message": "Something Went Wrong."
   }
 }
